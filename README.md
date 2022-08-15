@@ -96,7 +96,7 @@ With the datasets given the limitations occur when trying to connect different d
 
 ## For More Information
 
-The full analysis is located in the Jupyter Notebook or review this summary [presentation](https://github.com/db495/phase-1-project-microsoft-movie-analysis/blob/master/presentation.pdf)).
+The full analysis is located in the [EDA Notebook](https://github.com/db495/microsoft-movie-analysis/blob/main/EDA-notebook.ipynb), [Summary Notebook](https://github.com/db495/microsoft-movie-analysis/blob/main/Microsoft-Movie-Analysis-Summary.ipynb) or review this summary [presentation](https://github.com/db495/phase-1-project-microsoft-movie-analysis/blob/master/presentation.pdf)).
 
 For additional info, contact David Boyd at [dboyd580@gmail.com](mailto:dboyd580@gmail.com)
 
