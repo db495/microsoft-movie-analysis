@@ -9,7 +9,7 @@ import re
 # This function used beautiful soup to parse a website of the html to be used for webscraping later on
 def html_parser(url):
     page_data = requests.get(url)
-    soup = BS(page.content, 'html.parser')
+    soup = BS(page_data.content, 'html.parser')
     return soup
   
 # This function scrapes the movie titles
