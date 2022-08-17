@@ -72,7 +72,7 @@ Finally, after looking which genre to produce, how long to make the movie and wh
 
 ## Conclusions
 #### Key Findings:
-- Movies that aren't family friendly have the higher Rotten Tomatoes score. When broken down deeper we can see this is largely driven from "NR" based movies. The three best rated movie ratings to produce are **G, NR & PG**
+- Movies that aren't family friendly have the higher Rotten Tomatoes score. When broken down deeper we can see this is largely driven from "NR" based movies. The three best rated movie ratings to produce are **NR, R & PG**
 - Movies lengths are getting longer over time, make sure to keep your movie **less than 135 minutes** but **over 105-110 minutes**
 - The best months to release a movie, varies depending on how quickly you want to get returns. If you care about overall domestic ROI, is June, followed closely by Dec, Jan and Feb. When coupled with what % of sales can be made on the opening weekend, the best two months to release movies on are Jan & Feb, followed by June, due to the massive difference in production budgets.
 - In the US, the best ROI genre focuses around **thriller based movies**, due to **low production costs**, in terms of having a large amount of movies with a good domestic ROI, you should focus on Comedy,Drama,Romance based movies.If you also want to consider overall gross, then you should focus on **Action,Adventure,Sci-Fi**.
